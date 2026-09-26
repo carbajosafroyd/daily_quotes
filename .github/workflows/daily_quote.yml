@@ -1,0 +1,37 @@
+name: 📜 Daily Quote Generator
+
+on:
+  # Runs every day at 11:00 AM UTC = 7:00 PM Philippine Time (UTC+8)
+  schedule:
+    - cron: '0 11 * * *'
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 📜 Generate daily quote
+        run: python src/generate_quote.py
+
+      - name: 📝 Commit and push
+        run: |
+          git config user.name "Daily Quote Bot"
+          git config user.email "actions@github.com"
+          git add -A
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "📜 Daily quote for $(date -u -d '+8 hours' +%Y-%m-%d)"
+          git push
