@@ -1,75 +1,55 @@
-<div align="center">
+# daily_quotes
 
-# 📜 Daily Quote Generator
+A small automation project that fetches a random quote every day and commits it to this repo using GitHub Actions.
 
-**A Python + GitHub Actions automation that generates and publishes a daily inspirational quote.**
+The script runs on a schedule (7 PM PHT), pulls a quote from the [ZenQuotes API](https://zenquotes.io/), writes it to a markdown file, and pushes the commit — no manual work needed.
 
-[![Daily Quote](https://github.com/FROYD/daily_quotes/actions/workflows/daily_quote.yml/badge.svg)](https://github.com/FROYD/daily_quotes/actions/workflows/daily_quote.yml)
-
-</div>
-
----
-
-## 🔥 What is this?
-
-Every day at **7:00 PM Philippine Time**, a GitHub Actions workflow automatically:
-
-1. Fetches a random inspirational quote from [ZenQuotes API](https://zenquotes.io/)
-2. Saves it as a dated Markdown file in the [`quotes/`](quotes/) folder
-3. Updates this README with today's quote
-4. Commits and pushes — earning a daily GitHub contribution ✅
-
----
+## Today's quote
 
 <!-- QUOTE:START -->
-<div align="center">
-
-### 📜 Today's Quote — September 26, 2026
-
 > *"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."*
+>
+> — Sathya Sai Baba
 
-— **Sathya Sai Baba**
-
-<sub>🗂️ <a href="quotes/2026-09-26.md">View today's quote file</a> · Powered by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
-
-</div>
+`September 26, 2026` · [view file](quotes/2026-09-26.md)
 <!-- QUOTE:END -->
 
----
+## How it works
 
-## 📂 Project Structure
+1. GitHub Actions triggers the workflow on a cron schedule
+2. A Python script hits the ZenQuotes API for a random quote
+3. The quote gets saved as `quotes/YYYY-MM-DD.md`
+4. This README gets updated with the latest quote
+5. Everything gets committed and pushed automatically
 
-```text
+The script also keeps a simple history log (`data/history.json`) so it doesn't repeat the same quote twice.
+
+## Project structure
+
+```
 daily_quotes/
 ├── .github/workflows/
-│   └── daily_quote.yml       # GitHub Actions cron workflow
+│   └── daily_quote.yml       # cron workflow — runs daily at 11:00 UTC (7 PM PHT)
 ├── data/
-│   └── history.json          # Tracks used quotes to avoid duplicates
-├── quotes/
-│   └── 2026-09-27.md         # Dated quote archive
+│   └── history.json          # list of previously used quotes
+├── quotes/                   # archive of all generated quotes
 ├── src/
-│   └── generate_quote.py     # Main Python script
-└── README.md                 # You are here!
+│   └── generate_quote.py     # the actual script
+└── README.md
 ```
 
-## 🛠️ Tech Stack
-
-- **Python 3.12+** — standard library only (`json`, `urllib`, `datetime`, `pathlib`)
-- **GitHub Actions** — scheduled cron workflow
-- **ZenQuotes API** — free, no auth required
-
-## 🚀 Run Locally
+## Run locally
 
 ```bash
 python src/generate_quote.py
 ```
 
-## 📜 Quote Archive
+No dependencies outside the standard library.
 
-Browse all past quotes in the [`quotes/`](quotes/) directory.
+## Quote archive
+
+All past quotes are stored in the [`quotes/`](quotes/) directory, one file per day.
 
 ---
 
-<div align="center">
-<sub>Built with ❤️ as a Python + DevOps learning project · Powered by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
-</div>
+Quote data from [ZenQuotes API](https://zenquotes.io/).
