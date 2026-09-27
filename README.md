@@ -7,11 +7,11 @@ The script runs on a schedule (7 PM PHT), pulls a quote from the [ZenQuotes API]
 ## Today's quote
 
 <!-- QUOTE:START -->
-> *"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."*
+> *"If your mind is empty, it is always ready for anything, it is open to everything."*
 >
-> — Sathya Sai Baba
+> — Shunryu Suzuki
 
-`September 26, 2026` · [view file](quotes/2026-09-26.md)
+`September 27, 2026` · [view file](quotes/2026-09-27.md)
 <!-- QUOTE:END -->
 
 ## How it works
