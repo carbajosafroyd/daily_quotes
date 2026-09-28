@@ -7,11 +7,11 @@ The script runs on a schedule (7 PM PHT), pulls a quote from the [ZenQuotes API]
 ## Today's quote
 
 <!-- QUOTE:START -->
-> *"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone."*
+> *"Relax. Nothing is under control."*
 >
-> — Jack Kerouac
+> — Adi Da Samraj
 
-`September 28, 2026` · [view file](quotes/2026-09-28_2.md)
+`September 28, 2026` · [view file](quotes/2026-09-28_3.md)
 <!-- QUOTE:END -->
 
 ## How it works
