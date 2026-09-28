@@ -7,11 +7,11 @@ The script runs on a schedule (7 PM PHT), pulls a quote from the [ZenQuotes API]
 ## Today's quote
 
 <!-- QUOTE:START -->
-> *"Relax. Nothing is under control."*
+> *"If you aim at nothing, you will hit it every time."*
 >
-> — Adi Da Samraj
+> — Zig Ziglar
 
-`September 28, 2026` · [view file](quotes/2026-09-28_3.md)
+`September 29, 2026` · [view file](quotes/2026-09-29.md)
 <!-- QUOTE:END -->
 
 ## How it works
