@@ -7,11 +7,11 @@ The script runs on a schedule (7 PM PHT), pulls a quote from the [ZenQuotes API]
 ## Today's quote
 
 <!-- QUOTE:START -->
-> *"It's not what you've got; it's what you do that makes the difference."*
+> *"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone."*
 >
-> — Celestine Chua
+> — Jack Kerouac
 
-`September 28, 2026` · [view file](quotes/2026-09-28.md)
+`September 28, 2026` · [view file](quotes/2026-09-28_2.md)
 <!-- QUOTE:END -->
 
 ## How it works
