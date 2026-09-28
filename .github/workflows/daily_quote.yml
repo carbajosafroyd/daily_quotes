@@ -32,5 +32,5 @@ jobs:
           git config user.name "Froyd"
           git config user.email "froydcarbajosa14@gmail.com"
           git add -A
-          git diff --staged --quiet || git commit -m "add quote for $(date -u -d '+8 hours' +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "add quote for $(date -u -d '+8 hours' '+%Y-%m-%d %H:%M')"
           git push

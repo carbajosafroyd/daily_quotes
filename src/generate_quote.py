@@ -83,12 +83,20 @@ def fetch_unique_quote(retries=5):
 # ── file generation ────────────────────────────────────────────
 
 def write_quote_file(text, author, today):
-    """Create quotes/YYYY-MM-DD.md"""
+    """Create quotes/YYYY-MM-DD.md, or quotes/YYYY-MM-DD_N.md if run multiple times."""
     QUOTES_DIR.mkdir(parents=True, exist_ok=True)
 
     date_str = today.strftime("%Y-%m-%d")
     date_display = today.strftime("%B %d, %Y")
+
     path = QUOTES_DIR / f"{date_str}.md"
+    file_rel = f"{date_str}.md"
+    if path.exists():
+        counter = 2
+        while (QUOTES_DIR / f"{date_str}_{counter}.md").exists():
+            counter += 1
+        file_rel = f"{date_str}_{counter}.md"
+        path = QUOTES_DIR / file_rel
 
     content = f"""# {date_display}
 
@@ -97,14 +105,15 @@ def write_quote_file(text, author, today):
 — {author}
 """
     path.write_text(content, encoding="utf-8")
-    print(f"  saved quotes/{date_str}.md")
-    return path
+    print(f"  saved quotes/{file_rel}")
+    return path, file_rel
 
 
-def update_readme(text, author, today):
+def update_readme(text, author, today, file_rel=None):
     """Swap the quote block between the QUOTE markers in README.md"""
     date_str = today.strftime("%Y-%m-%d")
     date_display = today.strftime("%B %d, %Y")
+    target_link = f"quotes/{file_rel}" if file_rel else f"quotes/{date_str}.md"
 
     new_block = (
         "<!-- QUOTE:START -->\n"
@@ -112,7 +121,7 @@ def update_readme(text, author, today):
         f">\n"
         f"> — {author}\n"
         f"\n"
-        f"`{date_display}` · [view file](quotes/{date_str}.md)\n"
+        f"`{date_display}` · [view file]({target_link})\n"
         "<!-- QUOTE:END -->"
     )
 
@@ -145,11 +154,6 @@ def main():
     print(f"daily_quotes — {date_str}")
     print()
 
-    # skip if already generated today
-    if (QUOTES_DIR / f"{date_str}.md").exists():
-        print(f"  already generated for {date_str}, skipping")
-        return
-
     # fetch
     print("  fetching quote...")
     text, author = fetch_unique_quote()
@@ -158,8 +162,8 @@ def main():
     print()
 
     # write
-    write_quote_file(text, author, today)
-    update_readme(text, author, today)
+    _, file_rel = write_quote_file(text, author, today)
+    update_readme(text, author, today, file_rel)
 
     print()
     print("  done")
