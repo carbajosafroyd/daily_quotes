@@ -7,11 +7,11 @@ The script runs on a schedule (7 PM PHT), pulls a quote from the [ZenQuotes API]
 ## Today's quote
 
 <!-- QUOTE:START -->
-> *"If your mind is empty, it is always ready for anything, it is open to everything."*
+> *"It's not what you've got; it's what you do that makes the difference."*
 >
-> — Shunryu Suzuki
+> — Celestine Chua
 
-`September 27, 2026` · [view file](quotes/2026-09-27.md)
+`September 28, 2026` · [view file](quotes/2026-09-28.md)
 <!-- QUOTE:END -->
 
 ## How it works
