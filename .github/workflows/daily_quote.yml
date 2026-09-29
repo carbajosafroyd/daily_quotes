@@ -1,9 +1,9 @@
 name: daily quote
 
 on:
-  # 11:00 UTC = 7:00 PM Philippine Time (UTC+8)
+  # Temporary test cron: 13:35 UTC = 9:35 PM Philippine Time (UTC+8)
   schedule:
-    - cron: '0 11 * * *'
+    - cron: '35 13 * * *'
 
   # allow manual runs from the Actions tab
   workflow_dispatch:
