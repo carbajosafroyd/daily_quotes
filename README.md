@@ -7,11 +7,11 @@ The script runs on a schedule (3:15 AM PHT), pulls a quote from the [ZenQuotes A
 ## Today's quote
 
 <!-- QUOTE:START -->
-> *"If you aim at nothing, you will hit it every time."*
+> *"Walk slowly but never walk backward."*
 >
-> — Zig Ziglar
+> — Unknown
 
-`September 29, 2026` · [view file](quotes/2026-09-29.md)
+`September 30, 2026` · [view file](quotes/2026-09-30.md)
 <!-- QUOTE:END -->
 
 ## How it works
