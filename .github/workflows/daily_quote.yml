@@ -1,9 +1,9 @@
 name: daily quote
 
 on:
-  # Temporary test cron: 13:35 UTC = 9:35 PM Philippine Time (UTC+8)
+  # 19:15 UTC = 3:15 AM Philippine Time (UTC+8)
   schedule:
-    - cron: '35 13 * * *'
+    - cron: '15 19 * * *'
 
   # allow manual runs from the Actions tab
   workflow_dispatch:
@@ -29,8 +29,9 @@ jobs:
 
       - name: commit and push
         run: |
+          export TZ='Asia/Manila'
           git config user.name "Froyd"
           git config user.email "froydcarbajosa14@gmail.com"
           git add -A
-          git diff --staged --quiet || git commit -m "add quote for $(date -u -d '+8 hours' '+%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "add quote for $(date '+%Y-%m-%d %H:%M')"
           git push
