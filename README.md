@@ -7,11 +7,11 @@ The script runs on a schedule (3:15 AM PHT), pulls a quote from the [ZenQuotes A
 ## Today's quote
 
 <!-- QUOTE:START -->
-> *"Walk slowly but never walk backward."*
+> *"You are today where your thoughts have brought you."*
 >
-> — Unknown
+> — James Allen
 
-`September 30, 2026` · [view file](quotes/2026-09-30.md)
+`October 01, 2026` · [view file](quotes/2026-10-01.md)
 <!-- QUOTE:END -->
 
 ## How it works
