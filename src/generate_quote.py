@@ -111,22 +111,20 @@ def write_quote_file(text, author, today):
 
 def update_readme(text, author, today, file_rel=None):
     """Swap the quote block between the QUOTE markers in README.md"""
-    date_str = today.strftime("%Y-%m-%d")
     date_display = today.strftime("%B %d, %Y")
-    target_link = f"quotes/{file_rel}" if file_rel else f"quotes/{date_str}.md"
 
     new_block = (
         "<!-- QUOTE:START -->\n"
         f"> *\"{text}\"*\n"
         f">\n"
-        f"> — {author}\n"
+        f"> — **{author}**\n"
         f"\n"
-        f"`{date_display}` · [view file]({target_link})\n"
+        f"`{date_display}` · [archive](quotes/)\n"
         "<!-- QUOTE:END -->"
     )
 
     if not README.exists():
-        README.write_text(new_block, encoding="utf-8")
+        README.write_text(f"# daily quote\n\n{new_block}\n", encoding="utf-8")
         print("  created README.md")
         return
 
@@ -139,7 +137,7 @@ def update_readme(text, author, today, file_rel=None):
         after = content[content.index(end) + len(end):]
         content = before + new_block + after
     else:
-        content += "\n\n" + new_block
+        content = f"# daily quote\n\n{new_block}\n"
 
     README.write_text(content, encoding="utf-8")
     print("  updated README.md")
