@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"You are today where your thoughts have brought you."*
+> *"If you do not get the chills when you set your goal you're not setting big enough goals."*
 >
-> — **James Allen**
+> — **Bob Proctor**
 
-`October 01, 2026` · [archive](quotes/)
+`October 02, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
