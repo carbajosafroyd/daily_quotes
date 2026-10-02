@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"If you do not get the chills when you set your goal you're not setting big enough goals."*
+> *"Unless you're ashamed of yourself now and then, you're not honest."*
 >
-> — **Bob Proctor**
+> — **William Faulkner**
 
-`October 02, 2026` · [archive](quotes/)
+`October 03, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
