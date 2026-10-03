@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Unless you're ashamed of yourself now and then, you're not honest."*
+> *"Dream big. Start small. But most of all, start."*
 >
-> — **William Faulkner**
+> — **Simon Sinek**
 
-`October 03, 2026` · [archive](quotes/)
+`October 04, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
