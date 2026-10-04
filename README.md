@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Dream big. Start small. But most of all, start."*
+> *"It's not what happens to you, but how you react to it that matters."*
 >
-> — **Simon Sinek**
+> — **Epictetus**
 
-`October 04, 2026` · [archive](quotes/)
+`October 05, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
