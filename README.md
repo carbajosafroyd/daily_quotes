@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Weeds are flowers too, once you get to know them."*
+> *"There is no excuse for not trying."*
 >
-> — **A.A. Milne**
+> — **Barack Obama**
 
-`October 06, 2026` · [archive](quotes/)
+`October 07, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
