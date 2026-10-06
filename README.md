@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"It's not what happens to you, but how you react to it that matters."*
+> *"Weeds are flowers too, once you get to know them."*
 >
-> — **Epictetus**
+> — **A.A. Milne**
 
-`October 05, 2026` · [archive](quotes/)
+`October 06, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
