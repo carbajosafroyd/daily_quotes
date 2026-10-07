@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"There is no excuse for not trying."*
+> *"Don't be pushed by your problems; be led by your dreams."*
 >
-> — **Barack Obama**
+> — **Unknown**
 
-`October 07, 2026` · [archive](quotes/)
+`October 08, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
