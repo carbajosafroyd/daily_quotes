@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Don't be pushed by your problems; be led by your dreams."*
+> *"Our truest life is when we are in dreams awake."*
 >
-> — **Unknown**
+> — **Henry David Thoreau**
 
-`October 08, 2026` · [archive](quotes/)
+`October 09, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
