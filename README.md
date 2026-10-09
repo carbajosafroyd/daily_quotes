@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Our truest life is when we are in dreams awake."*
+> *"20 percent of your activities will account for 80 percent of your results."*
 >
-> — **Henry David Thoreau**
+> — **Brian Tracy**
 
-`October 09, 2026` · [archive](quotes/)
+`October 10, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
