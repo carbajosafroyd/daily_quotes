@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"20 percent of your activities will account for 80 percent of your results."*
+> *"When you know what you want, and you want it bad enough, you will find a way to get it."*
 >
-> — **Brian Tracy**
+> — **Jim Rohn**
 
-`October 10, 2026` · [archive](quotes/)
+`October 11, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
