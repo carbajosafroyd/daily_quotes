@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."*
+> *"Never feel shame for trying and failing, for he who has never failed is he who has never tried."*
 >
-> — **Colin R. Davis**
+> — **Og Mandino**
 
-`October 12, 2026` · [archive](quotes/)
+`October 13, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
