@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Never feel shame for trying and failing, for he who has never failed is he who has never tried."*
+> *"The ego wants comfort and certainty. The soul wants to live fully."*
 >
-> — **Og Mandino**
+> — **Maxime Lagace**
 
-`October 13, 2026` · [archive](quotes/)
+`October 14, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
