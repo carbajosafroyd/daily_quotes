@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"The ego wants comfort and certainty. The soul wants to live fully."*
+> *"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."*
 >
-> — **Maxime Lagace**
+> — **Elvis Presley**
 
-`October 14, 2026` · [archive](quotes/)
+`October 15, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
