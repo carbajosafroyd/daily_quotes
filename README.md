@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"People think you're crazy if you talk about things they don't understand."*
+> *"Without the confidence, nothing can be accomplished."*
 >
-> — **Elvis Presley**
+> — **Sathya Sai Baba**
 
-`October 16, 2026` · [archive](quotes/)
+`October 17, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
