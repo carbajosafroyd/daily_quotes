@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Without the confidence, nothing can be accomplished."*
+> *"A day without laughter is a day wasted."*
 >
-> — **Sathya Sai Baba**
+> — **Charlie Chaplin**
 
-`October 17, 2026` · [archive](quotes/)
+`October 18, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
