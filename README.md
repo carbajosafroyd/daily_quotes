@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"A day without laughter is a day wasted."*
+> *"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."*
 >
-> — **Charlie Chaplin**
+> — **Yanni**
 
-`October 18, 2026` · [archive](quotes/)
+`October 19, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
