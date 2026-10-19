@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."*
+> *"The price of inaction is far greater than the cost of making a mistake."*
 >
-> — **Yanni**
+> — **Meister Eckhart**
 
-`October 19, 2026` · [archive](quotes/)
+`October 20, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
