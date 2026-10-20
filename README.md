@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"The price of inaction is far greater than the cost of making a mistake."*
+> *"Truth is like the sun. You can shut it out for a time, but it ain't going away."*
 >
-> — **Meister Eckhart**
+> — **Elvis Presley**
 
-`October 20, 2026` · [archive](quotes/)
+`October 21, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
