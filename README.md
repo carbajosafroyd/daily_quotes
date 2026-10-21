@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Truth is like the sun. You can shut it out for a time, but it ain't going away."*
+> *"Life is like a beautiful melody, only the lyrics are messed up."*
 >
-> — **Elvis Presley**
+> — **Hans Christian Andersen**
 
-`October 21, 2026` · [archive](quotes/)
+`October 22, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
