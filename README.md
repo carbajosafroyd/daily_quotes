@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Life is like a beautiful melody, only the lyrics are messed up."*
+> *"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."*
 >
-> — **Hans Christian Andersen**
+> — **Lily Tomlin**
 
-`October 22, 2026` · [archive](quotes/)
+`October 23, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
