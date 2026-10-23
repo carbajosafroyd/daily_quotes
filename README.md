@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."*
+> *"Everyone sees what you appear to be, few experience what you really are."*
 >
-> — **Lily Tomlin**
+> — **Niccolo Machiavelli**
 
-`October 23, 2026` · [archive](quotes/)
+`October 24, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
