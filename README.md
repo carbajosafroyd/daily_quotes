@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Everyone sees what you appear to be, few experience what you really are."*
+> *"Instead of being intimidated by the limitations, be inspired to find new ways around them."*
 >
-> — **Niccolo Machiavelli**
+> — **Ralph Marston**
 
-`October 24, 2026` · [archive](quotes/)
+`October 25, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
