@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Instead of being intimidated by the limitations, be inspired to find new ways around them."*
+> *"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."*
 >
-> — **Ralph Marston**
+> — **Nicolas Chamfort**
 
-`October 25, 2026` · [archive](quotes/)
+`October 26, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
