@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."*
+> *"Your goals are the road maps that guide you and show you what is possible for your life."*
 >
-> — **Nicolas Chamfort**
+> — **Les Brown**
 
-`October 26, 2026` · [archive](quotes/)
+`October 27, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
