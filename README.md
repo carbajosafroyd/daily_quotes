@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Your goals are the road maps that guide you and show you what is possible for your life."*
+> *"The four P's to success are pressure, persistence, perseverance, and prayer."*
 >
-> — **Les Brown**
+> — **Steve Harvey**
 
-`October 27, 2026` · [archive](quotes/)
+`October 28, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
