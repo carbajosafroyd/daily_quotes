@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"The four P's to success are pressure, persistence, perseverance, and prayer."*
+> *"You have the ability, now apply yourself."*
 >
-> — **Steve Harvey**
+> — **Benjamin Mays**
 
-`October 28, 2026` · [archive](quotes/)
+`October 29, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
