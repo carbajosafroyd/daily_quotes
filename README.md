@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"You have the ability, now apply yourself."*
+> *"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."*
 >
-> — **Benjamin Mays**
+> — **Maxime Lagace**
 
-`October 29, 2026` · [archive](quotes/)
+`October 30, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
