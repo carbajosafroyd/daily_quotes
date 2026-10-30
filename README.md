@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."*
+> *"If you can change your mind, you can change your life."*
 >
-> — **Maxime Lagace**
+> — **William James**
 
-`October 30, 2026` · [archive](quotes/)
+`October 31, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
