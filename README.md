@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"If you can change your mind, you can change your life."*
+> *"The purpose of life is to contribute in some way to making things better."*
 >
-> — **William James**
+> — **Robert F. Kennedy**
 
-`October 31, 2026` · [archive](quotes/)
+`November 01, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
