@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"The purpose of life is to contribute in some way to making things better."*
+> *"Never fear quarrels, but seek hazardous adventures."*
 >
-> — **Robert F. Kennedy**
+> — **Alexandre Dumas**
 
-`November 01, 2026` · [archive](quotes/)
+`November 02, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
