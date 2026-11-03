@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Help others achieve their dreams and you will achieve yours."*
+> *"Create with the heart; build with the mind."*
 >
-> — **Les Brown**
+> — **Criss Jami**
 
-`November 03, 2026` · [archive](quotes/)
+`November 04, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
