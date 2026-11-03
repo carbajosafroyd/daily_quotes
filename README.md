@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Never fear quarrels, but seek hazardous adventures."*
+> *"Help others achieve their dreams and you will achieve yours."*
 >
-> — **Alexandre Dumas**
+> — **Les Brown**
 
-`November 02, 2026` · [archive](quotes/)
+`November 03, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
