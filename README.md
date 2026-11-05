@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Create with the heart; build with the mind."*
+> *"You will face many defeats in life, but never let yourself be defeated."*
 >
-> — **Criss Jami**
+> — **Maya Angelou**
 
-`November 04, 2026` · [archive](quotes/)
+`November 05, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
