@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"You will face many defeats in life, but never let yourself be defeated."*
+> *"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."*
 >
-> — **Maya Angelou**
+> — **Elon Musk**
 
-`November 05, 2026` · [archive](quotes/)
+`November 06, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
