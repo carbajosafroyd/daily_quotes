@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."*
+> *"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."*
 >
-> — **Elon Musk**
+> — **Mark Twain**
 
-`November 06, 2026` · [archive](quotes/)
+`November 07, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
