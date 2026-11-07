@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."*
+> *"Blessed is he who expects nothing, for he shall never be disappointed."*
 >
-> — **Mark Twain**
+> — **Alexander Pope**
 
-`November 07, 2026` · [archive](quotes/)
+`November 08, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
