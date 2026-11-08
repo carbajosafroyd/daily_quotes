@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Blessed is he who expects nothing, for he shall never be disappointed."*
+> *"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."*
 >
-> — **Alexander Pope**
+> — **Carl Jung**
 
-`November 08, 2026` · [archive](quotes/)
+`November 09, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
