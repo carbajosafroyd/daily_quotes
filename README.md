@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"People who bite the hand that feeds them usually lick the boot that kicks them."*
+> *"One beam, no matter how big, cannot support an entire house on its own."*
 >
-> — **Eric Hoffer**
+> — **Chinese Proverb**
 
-`November 10, 2026` · [archive](quotes/)
+`November 11, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
