@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"One beam, no matter how big, cannot support an entire house on its own."*
+> *"Go confidently in the direction of your dreams. Live the life you've imagined."*
 >
-> — **Chinese Proverb**
+> — **Arnold Schwarzenegger**
 
-`November 11, 2026` · [archive](quotes/)
+`November 12, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
