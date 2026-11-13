@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Go confidently in the direction of your dreams. Live the life you've imagined."*
+> *"The wise speak only of what they know."*
 >
-> — **Arnold Schwarzenegger**
+> — **J.R.R. Tolkien**
 
-`November 12, 2026` · [archive](quotes/)
+`November 13, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
