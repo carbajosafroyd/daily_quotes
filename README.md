@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be."*
+> *"Every saint has a past, and every sinner has a future."*
 >
-> — **Miguel de Cervantes**
+> — **Oscar Wilde**
 
-`November 14, 2026` · [archive](quotes/)
+`November 15, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
