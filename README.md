@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"The wise speak only of what they know."*
+> *"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be."*
 >
-> — **J.R.R. Tolkien**
+> — **Miguel de Cervantes**
 
-`November 13, 2026` · [archive](quotes/)
+`November 14, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
