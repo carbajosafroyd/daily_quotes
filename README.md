@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Every saint has a past, and every sinner has a future."*
+> *"Believe and you're halfway there."*
 >
-> — **Oscar Wilde**
+> — **Harry S. Truman**
 
-`November 15, 2026` · [archive](quotes/)
+`November 16, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
