@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Believe and you're halfway there."*
+> *"If you're afraid to die, you're afraid to live. You can't have one without the other."*
 >
-> — **Harry S. Truman**
+> — **Rita Mae Brown**
 
-`November 16, 2026` · [archive](quotes/)
+`November 17, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
