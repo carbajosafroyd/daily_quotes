@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"It's not the love you make. It's the love you give."*
+> *"You may forget with whom you laughed, but you will never forget with whom you wept."*
 >
-> — **Nikola Tesla**
+> — **Kahlil Gibran**
 
-`November 18, 2026` · [archive](quotes/)
+`November 19, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
