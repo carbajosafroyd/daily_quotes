@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"You may forget with whom you laughed, but you will never forget with whom you wept."*
+> *"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."*
 >
-> — **Kahlil Gibran**
+> — **Buddha**
 
-`November 19, 2026` · [archive](quotes/)
+`November 20, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
