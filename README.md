@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"You have to keep breaking your heart until it opens."*
+> *"Happiness is not a goal...it's a by-product of a life well lived."*
 >
-> — **Rumi**
+> — **Eleanor Roosevelt**
 
-`November 21, 2026` · [archive](quotes/)
+`November 22, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
