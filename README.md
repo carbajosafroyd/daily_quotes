@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Happiness is not a goal...it's a by-product of a life well lived."*
+> *"Nothing can dim the light which shines from within."*
 >
-> — **Eleanor Roosevelt**
+> — **Maya Angelou**
 
-`November 22, 2026` · [archive](quotes/)
+`November 23, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
