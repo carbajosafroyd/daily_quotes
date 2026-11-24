@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Nothing can dim the light which shines from within."*
+> *"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."*
 >
-> — **Maya Angelou**
+> — **Shunryu Suzuki**
 
-`November 23, 2026` · [archive](quotes/)
+`November 24, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
