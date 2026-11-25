@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."*
+> *"Unless someone truly has the power to say no, they never truly have the power to say yes."*
 >
-> — **Shunryu Suzuki**
+> — **Dan Millman**
 
-`November 24, 2026` · [archive](quotes/)
+`November 25, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
