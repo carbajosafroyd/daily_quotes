@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Unless someone truly has the power to say no, they never truly have the power to say yes."*
+> *"Well done is better than well said."*
 >
-> — **Dan Millman**
+> — **Benjamin Franklin**
 
-`November 25, 2026` · [archive](quotes/)
+`November 26, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
