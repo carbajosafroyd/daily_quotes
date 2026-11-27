@@ -1,9 +1,9 @@
 # daily quote
 
 <!-- QUOTE:START -->
-> *"Well done is better than well said."*
+> *"You can easily judge the character of a man by how he treats those who can do nothing for him."*
 >
-> — **Benjamin Franklin**
+> — **Johann Wolfgang von Goethe**
 
-`November 26, 2026` · [archive](quotes/)
+`November 27, 2026` · [archive](quotes/)
 <!-- QUOTE:END -->
